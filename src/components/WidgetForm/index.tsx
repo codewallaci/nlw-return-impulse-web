@@ -69,7 +69,7 @@ export function WidgetForm(){
       )}
 
       <footer className="text-xs text-neutral-400">
-        Feito com ❤️ por <a className="underline underline-offset-2" href="https://instagram.com/realwallaci">@realwallaci</a>
+        Feito com ♡ por <a className="underline underline-offset-2" href="https://instagram.com/realwallaci">@realwallaci</a>
       </footer>
     </div>
   )
